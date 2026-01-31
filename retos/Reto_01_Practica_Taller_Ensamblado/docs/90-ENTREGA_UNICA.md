@@ -1,8 +1,7 @@
 # 90 — ENTREGA ÚNICA (consolidado)
-
-Copia aquí lo esencial de **toma de datos**, **investigación técnica**, **recambios** y **observaciones**, con las **imágenes clave** (rutas relativas).
-
 ## Portada
+
+(../../Portada.png)
 
 ## IndiceO
 

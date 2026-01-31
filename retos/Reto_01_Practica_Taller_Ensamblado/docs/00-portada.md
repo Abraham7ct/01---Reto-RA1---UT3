@@ -7,4 +7,4 @@
 - Reto: **Reto 01 — Práctica de Taller**
 
 
-[portada](../../Reto_01_Practica_Taller_Ensamblado/Portada.png)
+![portada](../../Reto_01_Practica_Taller_Ensamblado/Portada.png)

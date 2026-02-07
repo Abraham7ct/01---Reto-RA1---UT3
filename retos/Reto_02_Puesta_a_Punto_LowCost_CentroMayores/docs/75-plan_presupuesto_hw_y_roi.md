@@ -1,21 +1,18 @@
-# 75 — Presupuesto de hardware y ROI
+## 75 — Presupuesto de hardware y ROI
 
-## Escenarios de gasto
-- **S0 (0 €)**: solo software. Coste total = 20 € + coste hora · horas.
-- **S1 (≤ 15 €)**: micro‑upgrade (pieza, fuente, coste, enlace).
-- **S2 (≤ 30 €)**: upgrade ligero (pieza, fuente, coste, enlace).
+### Escenarios
 
-## Tabla de costes y ROI
-Coste total = 20 € + gasto HW + (tarifa interna € / h) · horas
+| Escenario | Gasto HW | Horas | Tarifa €/h | Coste total | PVP | ROI |
+|---------|----------|-------|------------|-------------|-----|-----|
+| S0 | 0 € | 3 | 15 € | 65 € | 70 € | 0.08 |
+| S1 | 15 € | 4 | 15 € | 95 € | 120 € | 0.26 |
+| S2 | 30 € | 5 | 15 € | 155 € | 150 € | -0.03 |
 
-ROI simple = (PVP objetivo − Coste total) / Coste total
+**Escenario elegido:** S1  
 
-| Escenario | Gasto HW (€) | Horas | Tarifa interna (€/h) | **Coste total (€)** | **PVP objetivo (€)** | **ROI** | ¿Competitivo? |
-|---|---:|---:|---:|---:|---:|---:|---|
-| S0 | 0 |  |  |  |  |  |  |
-| S1 | ≤15 |  |  |  |  |  |  |
-| S2 | ≤30 |  |  |  |  |  |  |
+**Motivos:**
+- Gran mejora de rendimiento con bajo coste
+- Muy competitivo en mercado de segunda mano
+- ROI positivo
 
-## Elección final
-- Escenario elegido: …  
-- Motivos técnicos y de mercado: …
+---

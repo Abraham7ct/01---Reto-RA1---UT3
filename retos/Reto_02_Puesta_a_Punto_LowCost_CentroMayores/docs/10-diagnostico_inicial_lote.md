@@ -1,7 +1,22 @@
-# 10 — Diagnóstico inicial del lote
+## 10 — Diagnóstico inicial del lote
 
-- Modelo de CPU / RAM / almacenamiento por **5 unidades muestreadas**.
-- Estado térmico (temperaturas reposo/carga breve).
-- Problemas detectados (discos con sectores reasignados, ruido, etc.).
+### Muestra de 5 unidades
 
-**Capturas:** `../assets/img/10-diagnostico/`  
+| Equipo | CPU | RAM | Almacenamiento | Observaciones |
+|------|-----|-----|----------------|---------------|
+| A | Intel Core 2 Duo E8400 | 4 GB DDR3 | HDD 160 GB | Arranque lento, HDD antiguo |
+| B | Intel Core i3-2100 | 4 GB DDR3 | HDD 250 GB | HDD ruidoso |
+| C | AMD Athlon X2 | 4 GB DDR2 | HDD 250 GB | Temperatura elevada |
+| D | Pentium Dual Core E5400 | 4 GB DDR3 | HDD 160 GB | Sectores reasignados |
+| E | Core 2 Quad Q6600 | 8 GB DDR3 | HDD 320 GB | Estable |
+
+**Estado térmico (aprox.):**
+- Reposo: 45–55 °C  
+- Carga breve: 70–80 °C  
+
+**Problemas detectados:**
+- HDD mecánicos lentos
+- Ruido y vibraciones
+- RAM limitada para uso web moderno
+
+---

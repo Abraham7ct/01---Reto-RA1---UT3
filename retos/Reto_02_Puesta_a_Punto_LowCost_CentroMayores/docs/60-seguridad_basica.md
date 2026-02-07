@@ -1,8 +1,8 @@
-# 60 — Seguridad básica
+## 60 — Seguridad básica
 
-- Usuario estándar (no admin) + sudo bajo demanda.
-- Actualizaciones automáticas de seguridad.
-- Navegación segura por listas blancas (si procede).
-- Restauración rápida (snapshot o rsync base).
+- Usuario estándar
+- Firewall UFW activo
+- Actualizaciones automáticas
+- Restauración con Timeshift
 
-**Capturas:** `../assets/img/60-seguridad/`
+---

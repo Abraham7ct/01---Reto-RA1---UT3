@@ -1,6 +1,6 @@
 # 00 — Portada
 
-- Alumno/a:  
-- Grupo:  
+- Alumno/a:  **Abraham Aparicio Moreno**
+- Grupo:  1º ASIR
 - Reto: **Puesta a Punto Low‑Cost y Competitiva (Centro de mayores)**  
-- Fecha:
+- Fecha: 07/02/2026

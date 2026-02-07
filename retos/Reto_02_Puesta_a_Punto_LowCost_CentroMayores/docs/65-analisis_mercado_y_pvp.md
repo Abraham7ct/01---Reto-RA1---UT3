@@ -8,7 +8,50 @@
 
 > Reglas de captura: URL completa visible + fecha/hora del sistema visibles + dato marcado.
 
-## 2) PVP objetivo y criterio de competitividad
-- PVP objetivo por unidad: **… €**
-- Criterio: *Coste total* ≤ *Precio comparable medio* − **15 %** (margen).
-- Justificación: breve análisis…
+2) PVP objetivo y criterio de competitividad
+
+**Precio medio comparables (estimado):**
+
+Wallapop: ~150 €
+
+eBay: ~220 €
+
+CashConverters: ~270 €
+**Precio medio simple:**
+
+150
++
+220
++
+270
+3
+=
+213
+,
+33
+ €
+3
+150+220+270
+	​
+
+=213,33 €
+
+🎯 PVP objetivo por unidad: ≈ 200 €
+
+📏 Criterio de competitividad:
+Coste total por unidad ≤ Precio comparable medio − 15 %
+
+200
+€
+×
+(
+1
+−
+0.15
+)
+=
+170
+€
+200€×(1−0.15)=170€
+
+Este margen del 15 % permite posicionarse claramente por debajo del mercado, ofreciendo un valor más atractivo para el cliente final.

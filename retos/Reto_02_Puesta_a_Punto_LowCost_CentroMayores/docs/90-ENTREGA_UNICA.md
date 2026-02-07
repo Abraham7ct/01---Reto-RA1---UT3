@@ -58,5 +58,82 @@ UT3 · RA1 — Centro de Mayores
 
 ---
 
-## 40 — Accesibil
+## 40 — Accesibilidad para mayores
+
+- Escala UI 130 %
+- Tema claro y alto contraste
+- Accesos directos grandes a:
+  - Correo web
+  - Videollamadas
+  - Ofimática online
+- Ratón con velocidad reducida
+- Doble clic desactivado
+
+---
+
+## 50 — Optimización de rendimiento
+
+- zRAM activado
+- Swapfile 2 GB
+- Servicios innecesarios deshabilitados
+- Navegador optimizado con bloqueo de anuncios
+
+---
+
+## 60 — Seguridad básica
+
+- Usuario estándar
+- Firewall UFW activo
+- Actualizaciones automáticas
+- Restauración con Timeshift
+
+---
+
+## 70 — Métricas antes/después
+
+| Métrica | Antes | Después |
+|------|-------|---------|
+| Arranque | 120 s | 35 s |
+| RAM en reposo | 1200 MB | 850 MB |
+| CPU YouTube 720p | 70 % | 30 % |
+| Temp. en carga | 78 °C | 68 °C |
+
+---
+
+## 75 — Presupuesto de hardware y ROI
+
+### Escenarios
+
+| Escenario | Gasto HW | Horas | Tarifa €/h | Coste total | PVP | ROI |
+|---------|----------|-------|------------|-------------|-----|-----|
+| S0 | 0 € | 3 | 15 € | 65 € | 70 € | 0.08 |
+| S1 | 15 € | 4 | 15 € | 95 € | 120 € | 0.26 |
+| S2 | 30 € | 5 | 15 € | 155 € | 150 € | -0.03 |
+
+**Escenario elegido:** S1  
+
+**Motivos:**
+- Gran mejora de rendimiento con bajo coste
+- Muy competitivo en mercado de segunda mano
+- ROI positivo
+
+---
+
+## 80 — Replicación en flota
+
+- Imagen base con Clonezilla
+- Restauración masiva
+- Verificación checksum
+- Cambio de hostname tras clonación
+
+---
+
+## 85 — Plan de mantenimiento
+
+- Limpieza física cada 6 meses
+- Revisión SMART trimestral
+- Actualizaciones semanales
+- Copias con Timeshift
+
+---
 

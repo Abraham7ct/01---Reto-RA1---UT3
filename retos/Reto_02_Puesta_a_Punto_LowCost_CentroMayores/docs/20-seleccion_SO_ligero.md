@@ -1,10 +1,9 @@
-# 20 — Selección de SO ligero
-
-Candidatos (ejemplos): Linux Mint XFCE, Xubuntu, Debian + XFCE, Zorin Lite, Tiny11 (si procede).
+## 20 — Selección de SO ligero
 
 | Distro | Requisitos | Soporte | Pros | Contras | Decisión |
-|---|---|---|---|---|---|
-| | | | | | |
+|------|-----------|---------|------|---------|---------|
+| Xubuntu LTS | 1.5 GB RAM | Muy bueno | Ligero, estable | UI simple | ✅ Elegido |
+| Lubuntu | 1 GB RAM | Bueno | Muy rápido | UI básica | Alternativa |
+| Linux Mint XFCE | 2 GB RAM | Excelente | Muy amigable | Algo más pesado | Descartado |
 
-**Justificación final:** …  
-**Capturas:** `../assets/img/20-so_ligero/`
+**Decisión:** Xubuntu LTS.

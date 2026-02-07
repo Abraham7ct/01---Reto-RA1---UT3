@@ -1,8 +1,19 @@
-# 30 — Instalación y post‑instalación
+## 30 — Instalación y post-instalación
 
-- Pasos de instalación (resumen).
-- Paquetes esenciales (navegador, ofimática online, codecs).
-- Usuarios/contraseñas y políticas de actualización.
-- Script post‑instalación (si aplica).
+**Pasos:**
+1. USB booteable con Xubuntu
+2. Instalación limpia
+3. Usuario estándar
+4. Actualizaciones automáticas
 
-**Capturas:** `../assets/img/30-postinstalacion/`
+**Paquetes esenciales:**
+- Firefox
+- LibreOffice
+- VLC
+- Codecs multimedia
+
+**Usuarios y políticas:**
+- Usuario sin privilegios
+- Sudo solo bajo demanda
+
+---

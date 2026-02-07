@@ -1,5 +1,8 @@
-# 80 — Replicación en flota
+## 80 — Replicación en flota
 
-- Método: Clonezilla / imagex / fsarchiver / dd + verificación.
-- Pasos y checklist de replicación.
-- Precauciones de licenciamiento y SID/hostnames.
+- Imagen base con Clonezilla
+- Restauración masiva
+- Verificación checksum
+- Cambio de hostname tras clonación
+
+---

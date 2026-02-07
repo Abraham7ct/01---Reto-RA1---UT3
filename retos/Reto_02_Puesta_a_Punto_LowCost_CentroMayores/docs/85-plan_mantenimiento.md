@@ -1,6 +1,8 @@
-# 85 — Plan de mantenimiento
+## 85 — Plan de mantenimiento
 
-- Limpieza y polvo (cada X meses).
-- Revisión SMART y temperaturas.
-- Actualizaciones y copias de seguridad.
-- Procedimiento ante fallos comunes.
+- Limpieza física cada 6 meses
+- Revisión SMART trimestral
+- Actualizaciones semanales
+- Copias con Timeshift
+
+---

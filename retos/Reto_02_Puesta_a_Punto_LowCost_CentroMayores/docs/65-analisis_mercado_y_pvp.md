@@ -19,39 +19,18 @@ eBay: ~220 €
 CashConverters: ~270 €
 **Precio medio simple:**
 
-150
-+
-220
-+
-270
-3
-=
-213
-,
-33
- €
-3
-150+220+270
+Precio medio simple:
+
+(150+220+270)/3
 	​
 
 =213,33 €
 
-🎯 PVP objetivo por unidad: ≈ 200 €
+**PVP objetivo por unidad: ≈ 200 €**
 
-📏 Criterio de competitividad:
+**Criterio de competitividad:**
 Coste total por unidad ≤ Precio comparable medio − 15 %
 
-200
-€
-×
-(
-1
-−
-0.15
-)
-=
-170
-€
 200€×(1−0.15)=170€
 
 Este margen del 15 % permite posicionarse claramente por debajo del mercado, ofreciendo un valor más atractivo para el cliente final.
